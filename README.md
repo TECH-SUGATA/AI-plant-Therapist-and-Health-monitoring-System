@@ -1,4 +1,4 @@
-🌿 AI Plant Therapist & Health Monitoring
+🌿 Ai Plant Therapist & Health Monitoring
 
 An AI-powered plant health monitoring system that helps detect plant diseases, analyze plant health conditions, and suggest treatments.
 This project uses Artificial Intelligence, Computer Vision, and modern web technologies to assist farmers, gardeners, and plant lovers in maintaining healthy plants.
